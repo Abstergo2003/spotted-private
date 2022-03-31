@@ -1,15 +1,31 @@
 # spotted-pivate
-This bot is private, and you have to host it yourself
-You should consider this bot as a fun tool rather than actual bot
-I can guarantee full anonymous of messages sent on spotted using this bot, but i cant guarantee that your server will not be spammed,
-due to me unable to provide logs or use permissions via this bot
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-Configuration:
-Open data/commands.json there are fields like 'your channel/server id' fill them with channel or server id based on whats provided.
-if you open this file with windows note fields will be somewhere in 4th line
-Open data/settings.json and type your bot token and client id, (https://discord.com/developers/applications - use this to create your application in discord database, dont worry its their official link)
+CREATED BY: Abstergo using Discord Bot Maker
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+IMPORTANT: READ THIS BEFORE RUNNING BOT OR ADDING IT TO YOUR ERVER
+################################################################################################################
+INTRODUCTION
+
+This is bot that creates spotted infrastructure in your discord server
+whn it joins it creates 2 channels
+
+1. spotted channel 	- anonymous messages appear here
+2. nsfw channel 	- anonymous fap materials appaer here
+
+To send message on one of the channels send private message to this bot
+#################################################################################################################
+CONFIGURATION:
+1. enter https://discord.com/developers/applications
+2. create your bott aplication
+3. find app id and bot token
+4. open 'bot directory'/data/settings.json
+5. insert previously gathered data in indicated fields
+6. save file
+##################################################################################################################
 Running bot
+
 1 method on your computer
 - install node.js and open it
 - type node 'bot directory'/bot.js
@@ -24,7 +40,16 @@ Running bot
 - add bot to your server
 - done
 
-To add bot to your server insert this url in your web browser: https://discordapp.com/oauth2/authorize?client_id='your aplication id'&scope=bot&permissions=2146958591
+YOU HAVE TO FIRSTLY RUN BOT AND THEN ADD IT TO SERVER OR IT MIGHT NOT WORK AS SHOULD
 
+To add bot to your server insert this url in your web browser: https://discordapp.com/oauth2/authorize?client_id='your aplication id'&scope=bot&permissions=2146958591
+#######################################################################################################################
+
+LAST STEP: open file commands.json and fill indicated fields, remember do deploy your bot again or rerun it
+
+########################################################################################################################
 Youre welcome to insert your own changes to this bot but it was created using Discord Bot Maker so it might be really hard to do without this tool, 
 Any true programmer should rather try writting his own bot from scratch.
+
+Using on your won responsibilty, I can't guarantee that your server wont be spammed
+####################################################################################################################
