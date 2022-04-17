@@ -9,10 +9,12 @@ IMPORTANT: READ THIS BEFORE RUNNING BOT OR ADDING IT TO YOUR ERVER
 INTRODUCTION
 
 This is bot that creates spotted infrastructure in your discord server
-whn it joins it creates 2 channels
+when it joins it creates 3 channels and one role
 
 1. spotted channel 	- anonymous messages appear here
 2. nsfw channel 	- anonymous fap materials appaer here
+3. logs channel		- visible only for administrator, here you can check who written what and eventually punish them
+4. nsfw role		- only users having this role are able to see messages on nsfw channel
 
 To send message on one of the channels send private message to this bot
 #################################################################################################################
@@ -48,8 +50,8 @@ To add bot to your server insert this url in your web browser: https://discordap
 LAST STEP: open file commands.json and fill indicated fields, remember do deploy your bot again or rerun it
 
 ########################################################################################################################
+
 Youre welcome to insert your own changes to this bot but it was created using Discord Bot Maker so it might be really hard to do without this tool, 
 Any true programmer should rather try writting his own bot from scratch.
 
-Using on your won responsibilty, I can't guarantee that your server wont be spammed
 ####################################################################################################################
