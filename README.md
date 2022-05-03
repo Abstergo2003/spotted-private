@@ -1,4 +1,4 @@
-# spotted-pivate
+# Project outdated
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 CREATED BY: Abstergo using Discord Bot Maker
